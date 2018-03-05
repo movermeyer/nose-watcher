@@ -2,14 +2,14 @@
 Nose-Watcher
 ===============================
 
-.. image:: https://pypip.in/version/nose-watcher/badge.png
+.. image:: https://img.shields.io/pypi/v/nose-watcher.svg
         :target: https://pypi.python.org/pypi/nose-watcher/
         :alt: Latest Version
 
-.. image:: https://pypip.in/d/nose-watcher/badge.png
+.. image:: https://img.shields.io/pypi/dm/nose-watcher.svg
         :target: https://pypi.python.org/pypi/nose-watcher
 
-.. image:: https://pypip.in/wheel/nose-watcher/badge.png
+.. image:: https://img.shields.io/pypi/wheel/nose-watcher.svg
         :target: https://pypi.python.org/pypi/nose-watcher/
         :alt: Wheel Status
 
@@ -19,7 +19,7 @@ Nose-Watcher
 .. image:: https://coveralls.io/repos/solarnz/nose-watcher/badge.png?branch=develop
         :target: https://coveralls.io/r/solarnz/nose-watcher?branch=develop
 
-.. image:: https://pypip.in/license/nose-watcher/badge.png
+.. image:: https://img.shields.io/pypi/l/nose-watcher.svg
         :target: https://pypi.python.org/pypi/nose-watcher/
         :alt: License
 
